@@ -45,7 +45,7 @@ Step 1 : Open terminal ( windows ) or konsole ( linux )
 
 Step 2 : Type or paste the following command in it - 
 
- < git clone https://github.com/Stonebanks-js/Avian-Ailment-Analyzer.git >
+ < git clone https://github.com/mohdamaanup32/Avian-Ailment-Analyzer.git >
 
  Step 3 : locate the cloned repo in your local system and open it in IDE ( VS Code ( recommended))
 
