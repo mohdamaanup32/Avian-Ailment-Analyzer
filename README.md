@@ -128,7 +128,7 @@ Step 1 : Fork the repository to your profile
 
 Step 2 : Click on the green button "Code" and copy the HTTPs link you can also copy it from here - 
 
-" git clone https://github.com/Stonebanks-js/Avian-Ailment-Analyzer.git "
+" git clone https://github.com/mohdamaanup32/Avian-Ailment-Analyzer.git "
 
 Note - Do not copy the quotes. 
 
